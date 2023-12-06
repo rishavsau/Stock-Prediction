@@ -1,0 +1,8 @@
+In the era of big data, deep learning will easily assist you to predict the future value of any company stock. Above all, Stock Price Prediction Project is an essential tool for predicting stock market prices. 
+
+SBI stock price from 01/2018 to 12/2022 is given
+
+The goal is to predict the trend of the stock price for next 120 days. 
+
+LSTM based model to be used to predict the upward and downward trends.
+
